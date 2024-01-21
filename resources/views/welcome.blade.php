@@ -24,7 +24,6 @@
             </p>
             <h1 class="mt-4 text-3xl font-bold tracking-tight text-white sm:text-5xl">New website coming soon.</h1>
             <p class="mt-4 text-base text-white/70 sm:mt-6">Please keep an eye on our socials for the launch!</p>
-            <p class="mt-2 text-base text-white/70">2024 memberships will be purchasable once the new site is available.</p>
             <div class="mt-10 flex justify-center">
               <a href="https://www.facebook.com/britishdiscgolf/?locale=en_GB">Follow us on Facebook ></a>
             </div>
